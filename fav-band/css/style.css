@@ -6,14 +6,18 @@
 }
 img {
     float: left;
-    max-width: 25.5%;
-}
-.card {
-    float: right;
-    width: 25.5%;
+    max-width: 50%;
 }
 .sidebar {
     float: right;
-    width: 25.5%;
-    background-color: yellow;
+    width: 25%;
+    background-color: olive;
+}
+.column {
+    width: 100%;
+    float: left;
+}
+.img-top {
+    width: 50%;
+    display: inline;
 }
