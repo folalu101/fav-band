@@ -1,0 +1,19 @@
+.container {
+    background-color: aliceblue;
+}
+.nav-below {
+    background-color: silver;
+}
+img {
+    float: left;
+    max-width: 25.5%;
+}
+.card {
+    float: right;
+    width: 25.5%;
+}
+.sidebar {
+    float: right;
+    width: 25.5%;
+    background-color: yellow;
+}
