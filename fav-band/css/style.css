@@ -16,22 +16,39 @@ img {
 .column {
     width: 100%;
     float: left;
+    background-color: greenyellow;
 }
 .img-top {
-    width: 50%;
-    display: inline;
     float: left;
-    background-color: greenyellow;
-    height: 30px;
-}
-.img-top1 {
     width: 50%;
-    display: inline;
-    float: left;
-    background-color: greenyellow;
+    height: 15%;
 }
+
 form {
-    background-color: aquamarine;
     padding: 5px;
     margin: 20px;
+}
+.info-dig {
+    text-align: right;
+    
+}
+#body-img {
+    max-width: 50%;
+    
+
+}
+.heading1 {
+    text-align: center;
+    color: black;
+}
+ul {
+    margin: 10px;
+    width: fit-content;
+}
+.body-me {
+    text-align: right;
+    background-color: darkcyan;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif; text-decoration: solid;text-transform: uppercase;
+
 }
