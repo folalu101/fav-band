@@ -20,6 +20,15 @@ img {
 .img-top {
     width: 50%;
     display: inline;
+    float: left;
+    background-color: greenyellow;
+    height: 30px;
+}
+.img-top1 {
+    width: 50%;
+    display: inline;
+    float: left;
+    background-color: greenyellow;
 }
 form {
     background-color: aquamarine;
