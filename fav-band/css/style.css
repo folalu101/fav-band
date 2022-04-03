@@ -42,3 +42,16 @@ footer {
     padding: 15px;
     text-shadow: 10px;
 }
+h2 {
+    text-align: center;
+    background-color: gray;
+}
+.write-up1 {
+    background-color: beige;
+}
+.write-up2 {
+    background-color: burlywood;
+}
+.write-up3 {
+    background-color: hotpink;
+}
