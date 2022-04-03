@@ -37,11 +37,7 @@ h1 {
     text-transform: capitalize;
     text-shadow: 5px;
 }
-footer {
 
-    padding: 15px;
-    text-shadow: 10px;
-}
 h2 {
     text-align: center;
     background-color: gray;
@@ -54,4 +50,10 @@ h2 {
 }
 .write-up3 {
     background-color: hotpink;
+}
+footer {
+    text-align: center;
+    background-color: darkslategray;
+    text-decoration: solid;
+    padding: 10px;
 }
