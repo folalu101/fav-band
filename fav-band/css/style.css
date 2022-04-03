@@ -57,3 +57,10 @@ footer {
     text-decoration: solid;
     padding: 10px;
 }
+form {
+    background-color: darkgrey;
+    padding: 5px;
+}
+p {
+    text-decoration: solid;
+}
