@@ -1,0 +1,78 @@
+.dark {
+    background-color: black;
+    color: white;
+}
+.light {
+    background-color: white;
+    color: black;
+}
+.green {
+    background-color: green;
+    color: blue;
+}
+
+img {
+    float: left;
+    max-width: 50%;
+}
+
+
+form {
+    padding: 5px;
+    margin: 20px;
+}
+
+.top-level {
+    background-color: darkgoldenrod;
+    text-align: center;
+    text-decoration: solid;
+    text-transform: capitalize;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.nav-below1 {
+    background-color: aquamarine;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container {
+    background-color: aquamarine;
+}
+.card {
+    float: inline-end;
+}
+
+h1 {
+    text-align: center;
+    background-color: chocolate;
+    text-decoration: solid;
+    text-transform: capitalize;
+    text-shadow: 5px;
+}
+
+h2 {
+    text-align: center;
+    background-color: gray;
+}
+.write-up1 {
+    background-color: beige;
+}
+.write-up2 {
+    background-color: burlywood;
+}
+.write-up3 {
+    background-color: hotpink;
+}
+footer {
+    text-align: center;
+    background-color: darkslategray;
+    text-decoration: solid;
+    padding: 10px;
+}
+form {
+    background-color: darkgrey;
+    padding: 5px;
+}
+p {
+    text-decoration: solid;
+}
